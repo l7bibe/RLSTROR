@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order>
+        <id>ORD-1001</id>
+        <customer>Alice Johnson</customer>
+        <date>2026-05-01</date>
+        <total>150.25</total>
+        <status>Delivered</status>
+        <items>12</items>
+    </order>
+    <order>
+        <id>ORD-1002</id>
+        <customer>Bob Miller</customer>
+        <date>2026-05-05</date>
+        <total>45.99</total>
+        <status>Pending</status>
+        <items>3</items>
+    </order>
+    <order>
+        <id>ORD-1003</id>
+        <customer>Charlie Davis</customer>
+        <date>2026-05-08</date>
+        <total>1200.00</total>
+        <status>Shipped</status>
+        <items>50</items>
+    </order>
+</orders>

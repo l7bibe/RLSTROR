@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppliers>
+    <supplier>
+        <id>S001</id>
+        <name>Global Cables Ltd</name>
+        <contact>John Doe</contact>
+        <email>contact@globalcables.com</email>
+        <phone>+1 555-0101</phone>
+        <address>Industrial Zone A, NY</address>
+    </supplier>
+    <supplier>
+        <id>S002</id>
+        <name>Bright Lights Co</name>
+        <contact>Jane Smith</contact>
+        <email>sales@brightlights.com</email>
+        <phone>+1 555-0202</phone>
+        <address>Light Park, CA</address>
+    </supplier>
+    <supplier>
+        <id>S003</id>
+        <name>SwitchMaster</name>
+        <contact>Robert Brown</contact>
+        <email>info@switchmaster.com</email>
+        <phone>+1 555-0303</phone>
+        <address>Electronic Way, TX</address>
+    </supplier>
+</suppliers>
