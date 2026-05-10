@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <item id="INV001">
+        <productId>P001</productId>
+        <warehouse>A1</warehouse>
+        <batch>BT-2024-X</batch>
+        <receivedDate>2026-04-10</receivedDate>
+    </item>
+    <item id="INV002">
+        <productId>P002</productId>
+        <warehouse>B2</warehouse>
+        <batch>BT-2024-Y</batch>
+        <receivedDate>2026-04-15</receivedDate>
+    </item>
+</inventory>

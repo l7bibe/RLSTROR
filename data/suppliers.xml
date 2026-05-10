@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppliers>
+    <supplier>
+        <id>S001</id>
+        <name>Lumina Tech Corp</name>
+        <category>Electronics</category>
+        <contact>John Peterson</contact>
+        <email>contact@luminatech.com</email>
+        <phone>+44 20 7946 0958</phone>
+        <address>Industrial Park, London, UK</address>
+        <status>Active</status>
+        <image>https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&amp;auto=format&amp;fit=crop</image>
+    </supplier>
+    <supplier>
+        <id>S002</id>
+        <name>VoltCore Systems</name>
+        <category>Industrial</category>
+        <contact>Sarah Jenkins</contact>
+        <email>sarah@voltcore.io</email>
+        <phone>+1 555 0199 442</phone>
+        <address>Silicon Valley, CA, USA</address>
+        <status>Active</status>
+        <image>https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=200&amp;auto=format&amp;fit=crop</image>
+    </supplier>
+    <supplier>
+        <id>S003</id>
+        <name>Global Tools Ltd</name>
+        <category>Logistics</category>
+        <contact>Mark Thompson</contact>
+        <email>orders@globaltools.com</email>
+        <phone>+49 89 2341 5678</phone>
+        <address>Hauptstr. 12, Munich, Germany</address>
+        <status>Inactive</status>
+        <image>https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=200&amp;auto=format&amp;fit=crop</image>
+    </supplier>
+    <supplier>
+        <id>S004</id>
+        <name>EcoEnergy Solutions</name>
+        <category>Green Energy</category>
+        <contact>Elena Rodriguez</contact>
+        <email>elena@ecoenergy.es</email>
+        <phone>+34 91 123 4567</phone>
+        <address>Paseo de la Castellana, Madrid, Spain</address>
+        <status>Active</status>
+        <image>https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&amp;auto=format&amp;fit=crop</image>
+    </supplier>
+</suppliers>

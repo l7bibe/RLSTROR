@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reports>
+    <report id="REP001">
+        <title>Monthly Stock Audit</title>
+        <date>2026-05-01</date>
+        <type>Financial</type>
+    </report>
+    <report id="REP002">
+        <title>Supplier Performance Q1</title>
+        <date>2024-04-15</date>
+        <type>Operational</type>
+    </report>
+    <report id="REP003">
+        <title>Warehouse Capacity Analysis</title>
+        <date>2026-05-05</date>
+        <type>Logistics</type>
+    </report>
+    <report id="REP004">
+        <title>Inventory Turnover Ratio</title>
+        <date>2026-05-09</date>
+        <type>Strategic</type>
+    </report>
+</reports>

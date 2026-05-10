@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product id="P001">
+        <name>LED Bulb 20W</name>
+        <category>Lighting</category>
+        <price>25.50</price>
+        <stock>120</stock>
+        <minStock>20</minStock>
+        <status>Available</status>
+        <image>https://images.unsplash.com/photo-1550985616-10810253b84d?q=80&amp;w=200&amp;auto=format&amp;fit=crop</image>
+        <sku>LIT-LED-20W</sku>
+    </product>
+    <product id="P002">
+        <name>Circuit Breaker 16A</name>
+        <category>Protective</category>
+        <price>12.80</price>
+        <stock>45</stock>
+        <minStock>10</minStock>
+        <status>Available</status>
+        <image>https://images.unsplash.com/photo-1558210857-39dc0d1cc32e?q=80&amp;w=200&amp;auto=format&amp;fit=crop</image>
+        <sku>PRO-CB-16A</sku>
+    </product>
+    <product id="P003">
+        <name>Multimeter Digital</name>
+        <category>Tools</category>
+        <price>89.00</price>
+        <stock>32</stock>
+        <minStock>5</minStock>
+        <status>Available</status>
+        <image>https://images.unsplash.com/photo-1581092160562-40aa08e78837?q=80&amp;w=200&amp;auto=format&amp;fit=crop</image>
+        <sku>TLS-MUL-DIG</sku>
+    </product>
+    <product id="P004">
+        <name>Wall Socket Dual</name>
+        <category>Accessories</category>
+        <price>8.50</price>
+        <stock>250</stock>
+        <minStock>50</minStock>
+        <status>Available</status>
+        <image>https://images.unsplash.com/photo-1595113316349-9fa4eb24f884?q=80&amp;w=200&amp;auto=format&amp;fit=crop</image>
+        <sku>ACC-WS-DUAL</sku>
+    </product>
+    <product id="P005">
+        <name>Industrial Fan 60cm</name>
+        <category>Cooling</category>
+        <price>145.00</price>
+        <stock>8</stock>
+        <minStock>10</minStock>
+        <status>Low Stock</status>
+        <image>https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?q=80&amp;w=200&amp;auto=format&amp;fit=crop</image>
+        <sku>COL-IF-60CM</sku>
+    </product>
+    <product id="P006">
+        <name>Solar Panel 100W</name>
+        <category>Energy</category>
+        <price>320.00</price>
+        <stock>15</stock>
+        <minStock>5</minStock>
+        <status>Available</status>
+        <image>https://images.unsplash.com/photo-1509391366360-fe5bb6534283?q=80&amp;w=200&amp;auto=format&amp;fit=crop</image>
+        <sku>NRG-SP-100W</sku>
+    </product>
+</products>

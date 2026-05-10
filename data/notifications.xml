@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notifications xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema/notifications.xsd">
+    <notification id="1">
+        <type>info</type>
+        <message>XML System Sync Initiated</message>
+        <time>Just now</time>
+    </notification>
+    <notification id="2">
+        <type>warning</type>
+        <message>Low Stock Alert: LED Bulb</message>
+        <time>5m ago</time>
+    </notification>
+</notifications>

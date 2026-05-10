@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<systemConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema/system_config.xsd">
+    <currentUser>
+        <name>Admin</name>
+        <role>Senior Administrator</role>
+        <avatar>https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&amp;auto=format&amp;fit=crop</avatar>
+    </currentUser>
+    <appSettings>
+        <itemsPerPage>8</itemsPerPage>
+        <theme>dark</theme>
+    </appSettings>
+</systemConfig>
